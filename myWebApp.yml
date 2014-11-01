@@ -1,0 +1,6 @@
+# Configuration for the "myWebApp" application
+
+webApplication:
+  external:
+    system1-uri: http://mysystem1.mycomp.com
+    system2-uri: http://mysystem1.mycomp.com
