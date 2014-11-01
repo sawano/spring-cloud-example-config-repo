@@ -2,5 +2,5 @@
 
 webApplication:
   external:
-    system1-uri: http://mysystem1.mycomp.com
-    system2-uri: http://mysystem1.mycomp.com
+    system1_uri: http://mysystem1.mycomp.com
+    system2_uri: http://mysystem1.mycomp.com
