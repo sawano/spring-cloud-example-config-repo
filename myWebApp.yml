@@ -2,4 +2,7 @@
 
 webApplication:
   external:
+    twitterServiceUri: http://twitter-service/tweets
+    newServiceURI: http://news-service/news
+
     twitter_handle: DanielSawano
